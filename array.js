@@ -9,7 +9,7 @@
 // var myDream = dream.indexOf('developer');
 // console.log(myDream);
 
-arr = [3, 7, 10] ; 
+arr = [3, 7, 10];
 arr[1] = [3];
 console.log(arr);
 console.log(6 != 6);

@@ -15,6 +15,7 @@
 //     console.log('English book is  here');
 // }
 
+
 // // loop  
 // var num = 0 ;
 // while (num <= 10 ){
@@ -54,7 +55,7 @@
 
 function addNumber(number1, number2) {
     return "Result is " + number1 + number2;
-   }
-   
-   var result = addNumber(5, 4);
-   console.log(typeof result);
+}
+
+var result = addNumber(5, 4);
+console.log(typeof result);

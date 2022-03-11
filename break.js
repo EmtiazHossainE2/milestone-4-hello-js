@@ -1,27 +1,28 @@
-var color = 'red ' ;
-switch (color){
-    case 'violet ' : 
+var color = 'red ';
+switch (color) {
+    case 'violet ':
         console.log('Color is  violet ');
-        break ;
-    case 'blue ' : 
+        break;
+    case 'blue ':
         console.log('Color is  blue ');
-        break ;
-    case 'sky ' : 
+        break;
+    case 'sky ':
         console.log('Color is  sky ');
-        break ;
-    case 'green ' : 
+        break;
+    case 'green ':
         console.log('Color is  green ');
-        break ;
-    case 'yellow ' : 
+        break;
+    case 'yellow ':
         console.log('Color is  yellow ');
-        break ;
-    case 'orange ' : 
+        break;
+    case 'orange ':
         console.log('Color is  orange ');
-        break ;
-    case 'red ' : 
+        break;
+    case 'red ':
         console.log('Color is  red ');
-        break ;
-    default : 
+        break;
+    default:
         console.log('Color is Black ');
 }
+
 
